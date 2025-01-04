@@ -1,2 +1,2 @@
 # Wordle-Solver
-A project that solves the NYT's Wordle
+For a given Wordle game state, this program will provide the word that splits the remaining solutions into as many groups as possible.
